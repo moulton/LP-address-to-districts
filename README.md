@@ -8,7 +8,7 @@ Documentation for files and APIs used:
 Google geocode API documentation
 * https://developers.google.com/maps/documentation/geocoding/
 
-FCC census block api documentation at http://www.fcc.gov/developers/census-block-conversions-api
+FCC census block api documentation
 * http://www.fcc.gov/developers/census-block-conversions-api
 
 Virginia legislative districts
