@@ -4,20 +4,24 @@ LP-address-to-districts
 Adds districts (congress down to precinct) to Libertarian Party state data dumps.
 
 Documentation for files and APIs used:
+
 Google geocode API documentation
-https://developers.google.com/maps/documentation/geocoding/
+* https://developers.google.com/maps/documentation/geocoding/
+
 FCC census block api documentation at http://www.fcc.gov/developers/census-block-conversions-api
-http://www.fcc.gov/developers/census-block-conversions-api
+* http://www.fcc.gov/developers/census-block-conversions-api
+
 Virginia legislative districts
-http://redistricting.dls.virginia.gov/2010/RedistrictingPlans.aspx#31
-http://redistricting.dls.virginia.gov/2010/RedistrictingPlans.aspx#27
-http://redistricting.dls.virginia.gov/2010/RedistrictingPlans.aspx#28
+* http://redistricting.dls.virginia.gov/2010/RedistrictingPlans.aspx#31
+* http://redistricting.dls.virginia.gov/2010/RedistrictingPlans.aspx#27
+* http://redistricting.dls.virginia.gov/2010/RedistrictingPlans.aspx#28
+
 Census districts
-http://www.census.gov/geo/maps-data/data/baf_description.html
-http://www.census.gov/geo/maps-data/data/baf.html
-http://www.census.gov/geo/maps-data/data/nlt_description.html
-http://www.census.gov/geo/maps-data/data/nlt.html
-http://www.census.gov/geo/maps-data/data/gazetteer2010.html
+* http://www.census.gov/geo/maps-data/data/baf_description.html
+* http://www.census.gov/geo/maps-data/data/baf.html
+* http://www.census.gov/geo/maps-data/data/nlt_description.html
+* http://www.census.gov/geo/maps-data/data/nlt.html
+* http://www.census.gov/geo/maps-data/data/gazetteer2010.html
 
 How to use:
 
