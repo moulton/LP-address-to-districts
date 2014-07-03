@@ -51,6 +51,7 @@ import time
 # 2) Put phone numbers / email addresses in logical fields instead of all over the place (old dump format).
 # 3) Deal better with situations where geocoding returns more than 1 record (it just takes the first now).
 # 4) Make it work by just plugging in the state one place rather than making each state edit the data file names.
+# 5) Subsequent monthly dumps compare with previous runs and only do a new lookup if the last updated field changed.
 
 # variables (factored out so you only need to change things one place if data dump format or API changes)
 # filenames
