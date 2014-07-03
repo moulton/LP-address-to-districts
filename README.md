@@ -43,3 +43,4 @@ Areas I want to improve the program:
 1) Make it input the data dump, break it up into member/lapsed/inquiries, break it up into 2500 chunks, and re-assemble after completion.
 2) Put phone numbers / email addresses in logical fields instead of all over the place (old dump format).
 3) Deal better with situations where geocoding returns more than 1 record (it just takes the first now).
+4) Make it work by just plugging in the state one place rather than making each state edit the data file names.
